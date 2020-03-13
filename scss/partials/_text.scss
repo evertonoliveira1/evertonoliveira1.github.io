@@ -1,0 +1,32 @@
+//typography
+@import 'typography';
+
+body {
+  font-family: $primary-font;
+  color: $light-black;
+}
+
+//headings
+h1 {
+  font-size: rem(48px);
+}
+
+h2 {
+  font-size: rem(42px);
+}
+
+//paragraph
+
+p {
+  font-size: rem(20px);
+  line-height: rem(24px);
+  margin: 10px 0;
+}
+
+//list-itens
+
+li {
+  font-size: rem(28px);
+}
+
+//inline elements
